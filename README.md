@@ -15,7 +15,7 @@ The aim of this project is to collect, clean, and analyze a large dataset using 
 
 ## Installation
 
-1. Clone the repository to your local machine using `git clone https://github.com/your-username/data-visualization-project.git`
+1. Clone the repository to your local machine using `git clone https://github.com/GitProSolutions/Data-visualization-project.git`
 2. Install the required packages using `pip install -r requirements.txt`
 3. Open the project in Jupyter Notebook or your preferred IDE.
 
